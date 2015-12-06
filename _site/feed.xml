@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>李小胖&amp;Julia</title>
+    <description>爱julia、爱生活、爱技术。
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 07 Dec 2015 00:55:07 +0800</pubDate>
-    <lastBuildDate>Mon, 07 Dec 2015 00:55:07 +0800</lastBuildDate>
+    <pubDate>Mon, 07 Dec 2015 01:43:41 +0800</pubDate>
+    <lastBuildDate>Mon, 07 Dec 2015 01:43:41 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -35,6 +35,17 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>新的一年</title>
+        <description>&lt;p&gt;新的一年即将到来，希望坚持写博客。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Dec 2015 00:00:00 +0800</pubDate>
+        <link>http://yourdomain.com/2015/12/07/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/12/07/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4.html</guid>
+        
         
       </item>
     
