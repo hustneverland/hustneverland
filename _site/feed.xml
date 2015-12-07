@@ -6,9 +6,26 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 07 Dec 2015 01:43:41 +0800</pubDate>
-    <lastBuildDate>Mon, 07 Dec 2015 01:43:41 +0800</lastBuildDate>
+    <pubDate>Tue, 08 Dec 2015 00:44:50 +0800</pubDate>
+    <lastBuildDate>Tue, 08 Dec 2015 00:44:50 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>SSH免密码登录</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;ssh-keygen  产生公钥与私钥对&lt;/li&gt;
+  &lt;li&gt;ssh-copy-id -i ~/.ssh/id_rsa.pub remote-host&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;注意：除了基本的操作外需要注意.ssh目录和文件的权限
+	 目录需要 755 文件需要600&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Dec 2015 00:00:00 +0800</pubDate>
+        <link>http://yourdomain.com/2015/12/08/ssh%E5%85%8D%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/12/08/ssh%E5%85%8D%E5%AF%86%E7%A0%81%E7%99%BB%E5%BD%95.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>

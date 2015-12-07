@@ -2,4 +2,8 @@
 layout: post
 title: SSH免密码登录
 ---
-除了基本的操作外需要主要.ssh目录和文件的权限
+1. ssh-keygen  产生公钥与私钥对
+2. ssh-copy-id -i ~/.ssh/id_rsa.pub remote-host
+
+注意：除了基本的操作外需要注意.ssh目录和文件的权限
+	 目录需要 755 文件需要600
